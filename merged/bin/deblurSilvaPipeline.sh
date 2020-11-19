@@ -1,4 +1,4 @@
-# mv *I_* ../path remove the 'I' files
+# mv *_I* ../path remove the 'I' files
 
 #create artifact for qiime
 qiime tools import \
