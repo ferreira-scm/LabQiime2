@@ -1,2 +1,4 @@
 # LabQiime2
-alternative data preprocessing and analysis
+alternative data preprocessing to the MA package.
+
+This can archieved!
